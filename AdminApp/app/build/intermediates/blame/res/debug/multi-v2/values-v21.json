@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\User\\AndroidStudioProjects\\Hackathon-foodie-master\\AdminApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\User\\AndroidStudioProjects\\Hackathon-foodie-master\\AdminApp\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "3,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,358",
+                        "endLines": "8,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "352,645"
+                    },
+                    "to": {
+                        "startLines": "2,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,356",
+                        "endLines": "7,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "351,643"
+                    }
+                }
+            ]
+        }
+    ]
+}

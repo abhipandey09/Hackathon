@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Hackathon-foodie-master\\AdminApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Hackathon-foodie-master\\AdminApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Hackathon-foodie-master\\AdminApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_logo.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Hackathon-foodie-master\\AdminApp\\app\\src\\main\\res\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Hackathon-foodie-master\\AdminApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Hackathon-foodie-master\\AdminApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Hackathon-foodie-master\\AdminApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Hackathon-foodie-master\\AdminApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Hackathon-foodie-master\\AdminApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Hackathon-foodie-master\\AdminApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Hackathon-foodie-master\\AdminApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Hackathon-foodie-master\\AdminApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Hackathon-foodie-master\\AdminApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Hackathon-foodie-master\\AdminApp\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Hackathon-foodie-master\\AdminApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Hackathon-foodie-master\\AdminApp\\app\\src\\main\\res\\drawable\\app.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Hackathon-foodie-master\\AdminApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Hackathon-foodie-master\\AdminApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
